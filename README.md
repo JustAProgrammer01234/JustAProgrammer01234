@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm just some guy who likes programming with Python and Go :)
+
 <!--
 **JustAProgrammer01234/JustAProgrammer01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,7 @@ I'm just some guy who likes programming. :)
 - I'm currently working on a [game](https://github.com/JustAProgrammer01234/Parkour). 
 - My username on discord is scripto_entity_1010#3404. Feel free to add friend me!  
 - Speaking of discord, you can join my [discord server](https://discord.gg/rZzKYBAdUp)!
-- I have a [youtube channel](https://www.youtube.com/channel/UCB_yhbKiP1OHQcjqk3Tzw5A) that's dedicated to posting doom related videos. Would love it if you subscribe! 
+- I have a [youtube channel](https://www.youtube.com/channel/UCB_yhbKiP1OHQcjqk3Tzw5A) that's dedicated to posting Doom related videos. Would love it if you subscribe! 
 
 <!--
 **JustAProgrammer01234/JustAProgrammer01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

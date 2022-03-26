@@ -12,6 +12,7 @@ I'm just some guy who likes programming. :)
 - I usually code when I feel like it. 
 - I'm currently working on a [game](https://github.com/JustAProgrammer01234/Parkour). 
 - My username on discord is scripto_entity_1010#3404. Feel free to add friend me!  
+- Speaking of discord, you can join my [discord server](https://discord.gg/rZzKYBAdUp)!
 
 <!--
 **JustAProgrammer01234/JustAProgrammer01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

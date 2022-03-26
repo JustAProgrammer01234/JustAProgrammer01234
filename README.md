@@ -9,6 +9,8 @@ I'm just some guy who likes programming. :)
 ## Facts about me:
 - I'm a high school student. 
 - I LOVE playing Doom. (You can clearly see that because of my pfp but idc.) 
+- I usually code when I feel like it. 
+- I'm currently working on a [game](https://github.com/JustAProgrammer01234/Parkour). 
 
 <!--
 **JustAProgrammer01234/JustAProgrammer01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

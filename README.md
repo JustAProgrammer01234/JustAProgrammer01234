@@ -9,6 +9,7 @@ I'm just some guy who likes programming. :)
 ## Facts about me:
 - I'm a high school student. 
 - I LOVE playing Doom. (You can clearly see that because of my pfp but idc.) 
+- I use Fedora Workstation as my main OS. 
 - I usually code when I feel like it. 
 - My username on discord is scripto_entity_1010#3404. Feel free to add friend me!  
 - Speaking of discord, you can join my [discord server](https://discord.gg/rZzKYBAdUp)!
